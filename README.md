@@ -1,6 +1,8 @@
-# Hi there, I'm Charmaine 👋
-### I'm a recent Full-Stack graduate :computer:
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/88203567/139379191-bfbcf524-7d49-4882-8420-c5763aec590b.gif" width="500" height="320">
+
+<h2 align="center"> Hi there, I'm Charmaine :wave:	<br />
+<h3 align="center"> I'm a recent Full-Stack graduate!<br />
+<br />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/88203567/139379191-bfbcf524-7d49-4882-8420-c5763aec590b.gif" width="510" height="430">
 
 #### Connect with me:
 <a href="https://www.linkedin.com/in/charmaine-llacuna-3b7949162/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Char-Alexis | LinkedIn" width="22px"/></a>
@@ -18,5 +20,10 @@
 
 #### 💬 Ask me about 
 - Anything!
+
+<h3 align="center">My Current Skillset<br />
+
+#### Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
