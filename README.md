@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/88203567/139379191-bfbcf524-7d49-4882-8420-c5763aec590b.gif" width="510" height="430">
 
 #### :envelope_with_arrow: Connect with me:
-<a href="www.linkedin.com/in/charmaine-llacuna"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Char-Alexis | LinkedIn" width="22px"/></a>
+<a href="https://www.linkedin.com/in/charmaine-llacuna"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Char-Alexis | LinkedIn" width="22px"/></a>
 <br />
 #### 🔭 I’m currently working on
 - My e-commerce project
