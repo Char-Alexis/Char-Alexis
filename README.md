@@ -4,6 +4,8 @@
 
 <br />
 <img align="right" alt="GIF" src="https://giphy.com/embed/BferOKonYOspm28AiB" width="100%" height="100%">
+  <div style="width:100%;height:0;padding-bottom:80%;position:relative;"><iframe src="https://giphy.com/embed/BferOKonYOspm28AiB" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/computer-working-all-nighter-BferOKonYOspm28AiB">via GIPHY</a></p>
+  
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
