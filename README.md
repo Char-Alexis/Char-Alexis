@@ -1,25 +1,20 @@
 
 <h2 align="center"> Hi there, I'm Charmaine :wave:	<br />
-<h3 align="center"> I'm a recent Full-Stack graduate!<br />
+<h3 align="center">I am a recent Full Stack graduate :)</h3>
+
 <br />
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/88203567/139379191-bfbcf524-7d49-4882-8420-c5763aec590b.gif" width="510" height="430">
+<img align="right" alt="GIF" src="https://giphy.com/embed/BferOKonYOspm28AiB" width="100%" height="100%">
+  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/charmaine-llacuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charmaine-llacuna" height="30" width="40" /></a>
+</p>
+  
+- 🔭 I’m currently working on **my passion project**
 
-#### :envelope_with_arrow: Connect with me:
-<a href="https://www.linkedin.com/in/charmaine-llacuna"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Char-Alexis | LinkedIn" width="22px"/></a>
-<br />
-#### 🔭 I’m currently working on
-- My e-commerce project
-- CSS skills
+- 🌱 I’m currently learning **java, swift**
 
-#### 🌱 I’m currently learning
-- C#
-- Swift
-
-#### 👯 I’m looking to collaborate on 
-- Open source
-
-#### 💬 Ask me about 
-- Anything!
+- 💬 Ask me about **anything!**
 
 #### :zap: Technical Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
