@@ -3,9 +3,8 @@
 <h3 align="center">I am a recent Full Stack graduate :)</h3>
 
 <br />
-<img align="right" alt="GIF" src="https://giphy.com/embed/BferOKonYOspm28AiB" width="100%" height="100%">
-  <div style="width:100%;height:0;padding-bottom:80%;position:relative;"><iframe src="https://giphy.com/embed/BferOKonYOspm28AiB" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/computer-working-all-nighter-BferOKonYOspm28AiB">via GIPHY</a></p>
-  
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/BferOKonYOspm28AiB/giphy.gif?cid=790b7611d21071ec78b6fedf4366758cc32ac4a772f9e563&rid=giphy.gif&ct=g" width="480" height="384">
+
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
