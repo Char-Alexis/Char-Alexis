@@ -6,7 +6,7 @@
             </samp>
 <samp>
     <p align="center">
-       <p> Recent Full Stack gradute 👩🏻‍💻 </p>
+       <p> Recent Full Stack graduate 👩🏻‍💻 </p>
     </p>
 </samp>
   
