@@ -1,7 +1,7 @@
 
 
   <h3 align="center">
-        <samp>&gt; Hi There! I'm
+        <samp>&gt; Hi there! I'm
                 <b><a>Charmaine Llacuna</a></b>
             </samp>
 <samp>
