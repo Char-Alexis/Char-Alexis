@@ -11,14 +11,22 @@
 </samp>
   
 <br />
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/BferOKonYOspm28AiB/giphy.gif?cid=790b7611d21071ec78b6fedf4366758cc32ac4a772f9e563&rid=giphy.gif&ct=g" width="480" height="384">
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/BferOKonYOspm28AiB/giphy.gif?cid=790b7611d21071ec78b6fedf4366758cc32ac4a772f9e563&rid=giphy.gif&ct=g" width="400" height="300">
 
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/charmaine-llacuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charmaine-llacuna" height="30" width="40" /></a>
-</p>
-  
+
+<br />
+
+<br />
+<samp align="left">
+  Connect with me
+</samp>
+
+      
+<a href="https://www.linkedin.com/in/charmaine-llacuna" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ 
+<a href="mailto:llacuna.charmaine.a@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" width="70" height="25"></a>
+        
+###
 - 🔭 I’m currently working on **my passion project**
 
 - 🌱 I’m currently learning **Java and Swift**
