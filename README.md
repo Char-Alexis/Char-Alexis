@@ -1,7 +1,15 @@
 
-<h2 align="left"> Hi there, I'm Charmaine:)	<br />
-<h3 align="left">A recent Full Stack graduate :woman_technologist:	</h3>
 
+  <h3 align="center">
+        <samp>&gt; Hi There! I'm
+                <b><a>Charmaine Llacuna</a></b>
+            </samp>
+<samp>
+    <p align="center">
+       <p> Recent Full Stack gradute 👩🏻‍💻 </p>
+    </p>
+</samp>
+  
 <br />
 <img align="right" alt="GIF" src="https://media2.giphy.com/media/BferOKonYOspm28AiB/giphy.gif?cid=790b7611d21071ec78b6fedf4366758cc32ac4a772f9e563&rid=giphy.gif&ct=g" width="480" height="384">
 
