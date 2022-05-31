@@ -11,7 +11,7 @@
 </samp>
   
 <br />
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/BferOKonYOspm28AiB/giphy.gif?cid=790b7611d21071ec78b6fedf4366758cc32ac4a772f9e563&rid=giphy.gif&ct=g" width="400" height="300">
+<img align="center" alt="GIF" src="https://media2.giphy.com/media/BferOKonYOspm28AiB/giphy.gif?cid=790b7611d21071ec78b6fedf4366758cc32ac4a772f9e563&rid=giphy.gif&ct=g" width="400" height="300">
 
 
 <br />
@@ -28,8 +28,8 @@
 
   
 <br>
-***
-<samp>
+
+  <samp>
   <p>🔭 I’m currently working on my passion project </p>
 
   <p> 🌱 I’m currently learning Java and Swift</p>
